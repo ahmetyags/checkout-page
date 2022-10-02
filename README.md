@@ -1,5 +1,5 @@
-https://arslanmehmet1.github.io/PROJECT_CheckOutPageDinamic/
-# PROJECT_CheckOutPageDinamic
+https://ahmetyags.github.io/checkout-page/
+# PROJECT_CheckOutPage
 
 Dinamic CheckOut Page
 
