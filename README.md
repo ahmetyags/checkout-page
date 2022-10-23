@@ -35,12 +35,3 @@ At the end of the this project, students will be able to;
   - When I click remove button on product's row or I decrease the quantity to 0, I can delete a product in the cart.
   - When I change any combination of product chart(plus, minus, remove etc.), I want to see the new calculation of chart's prices in concerned fields.
 
-## Resources
-
-- [Images](./IMG/)
-
-- [Fonts](./FONTS/)
-
-- 🔥 You don’t need to create a new html template in this project, you can use [Checkout_Page](https://github.com/clarusway/clarusway-full-stack-10-21/tree/main/javascript/Projects/005-Checkout_Page/) template. We will be concerned in javascript side.
-
-<center> ⌛ Happy Coding  ✍ </center>
