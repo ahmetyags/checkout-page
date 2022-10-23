@@ -1,5 +1,6 @@
-https://ahmetyags.github.io/checkout-page/
+
 # PROJECT_CheckOutPage
+- ) template for project 
 
 Dinamic CheckOut Page
 
@@ -21,8 +22,6 @@ At the end of the this project, students will be able to;
 - demonstrate their knowledge of algorithmic design principles for dynamic calculation of product's cart.
 
 ## Problem Statement
-
-- You can use [Checkout_Page](https://github.com/clarusway/clarusway-full-stack-11-22/tree/main/html-css/projects/004-checkout-form) template for project.
 
 - Create a checkout page following the design and make the calculation of cart dynamically with using of DOM and Event in JS.
 
